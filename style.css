@@ -2,6 +2,7 @@ h1{
   border-radius: 15px;
   text-align: center;
   font-family: serif;
+  color:orangered;
 }
 body{
   background-color: ghostwhite;
@@ -32,8 +33,9 @@ margin: 50px 0 0 0;
 }
 fieldset{
   background: darkslateblue;
-  color: red;
+  color: seagreen;
   border-radius: 20px;
+  
 }
 h2{
   color: lavenderblush;
