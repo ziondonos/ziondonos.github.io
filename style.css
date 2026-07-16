@@ -1,5 +1,6 @@
 body{
   background-color: ghostwhite;
+  font-family: sans-serif;
 }
 h1{
   margin: 70px 0 0 0;
@@ -8,6 +9,9 @@ h1{
   margin: 50px 0 0 0;
 }
 .intro{
+  font-family: serif;
+}
+.intro2{
   margin: 7px 0 0 0;
 }
 .tag{
@@ -16,49 +20,82 @@ h1{
 }
 .small{
   color: red;
-  font-style: italic;
 }
 small{
   color: darkgray;
+  font-style: italic;
 }
-ul{
+.ul1{
   color: olive;
 }
 .h4b{
   margin: 25px 0 0 0.5px;
 }
 footer{
-  border: solid 1px grey;
   border-radius: 5px 5px 0 0;
   background: cornflowerblue;
-  margin: 400px 0 0 0;
   text-align: center;
   padding: 0 0 70px 0;
   color: white;
+  margin: 400px 0 0 0;
 }
 
 button{
-  color: red;
-  border: solid red 2px;
+  color: white;
   border-radius: 5px;
+  border-radius: 5px;
+  font-weight: bold;
+  padding: 10px 20px;
+  background-color: purple;
+  margin: 20px 0 0 0;
 }
 a:visited{
-  color: red;
+  coor: darkblue;
 }
 a:hover{
-  color: green;
+  color: pink;
 }
 a:active{
   color: blanchedalmond;
 }
 a{
-  color: red;
+  color: royalblue;
 }
 fieldset{
   border-radius: 0 50px 0 50px;
 background-color: white;
-  border-color: red;
+  border: solid 0.5px red;
 }
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.fb-btn {
+  background-color: #3b5998;
+  margin: 5px/* Facebook blue */
+}
+
+.mail-btn {
+  background-color: #d44638;
+  margin: 20px 5px 5px 5px;
+  /* Gmail red */
+}
+.foot{
+  margin: 20px 0 20px 0;
+}
+
+.projt{
+  color: darkgray;
+  font-style: italic;
+}
+
+
 
 
 
